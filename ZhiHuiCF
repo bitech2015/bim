@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://demo.bitech.cn/appdownzhihuicf/ZhiHuiCF_Icon.png</string>
+					<string>http://180.166.114.230:8080/AppDownload/ZhiHuiCF_Icon.png</string>
 					<key>needs-shine</key>
 					<true/>
 				</dict>
@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://demo.bitech.cn/appdownzhihuicf/ZhiHuiCF.ipa</string>
+					<string>http://180.166.114.230:8080/AppDownload/ZhiHuiCF.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
