@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://ys.bitech.cn/iPark/biparke01_appdownload/biBusiness_Icon.png</string>
+					<string>http://ys.bitech.cn/iPark/biparke02_appdownload/biBusiness_Icon.png</string>
 					<key>needs-shine</key>
 					<true/>
 				</dict>
@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ys.bitech.cn/iPark/biparke01_appdownload/biBusiness.ipa</string>
+					<string>http://ys.bitech.cn/iPark/biparke02_appdownload/biBusiness.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
