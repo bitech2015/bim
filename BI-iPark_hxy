@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bitech.BiPark-E01-Mobile.alpha</string>
+				<string>com.bitech.BiPark-E01-Mobile.inhouse</string>
 				<key>bundle-version</key>
-				<string>2.2.5.39</string>
+				<string>3.2.0.33</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
