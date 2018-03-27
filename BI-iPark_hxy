@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://ys.bitech.cn/iPark/biparke01_appdownload_hxy/BI-iPark_Icon.png</string>
+					<string>http://47.100.101.25:80/iPark/biparke01_appdownload/BI-iPark_Icon.png</string>
 					<key>needs-shine</key>
 					<true/>
 				</dict>
@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ys.bitech.cn/iPark/biparke01_appdownload_hxy/BI-iPark.ipa</string>
+					<string>http://47.100.101.25:80/iPark/biparke01_appdownload/BI-iPark.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bitech.BiPark-E01-Mobile.inhouse</string>
 				<key>bundle-version</key>
-				<string>3.2.0.33</string>
+				<string>3.2.0.34</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
