@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bitech.ChinafortuneParkVendor.inhouse</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>一见倾鑫商家版</string>
+				<string>鑫商户</string>
 			</dict>
 		</dict>
 	</array>
