@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://dev.bitech.cn/appdownbiparke01/BI-iPark.ipa</string>
+					<string>http://220.196.52.12:8001/ShYdPark/app/ChinafortunePark</string>
 				</dict>
 			</array>
 			<key>metadata</key>
