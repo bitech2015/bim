@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://demo.bitech.cn/appdownchinafortunepark/ChinafortunePark.ipa</string>
+					<string>http://demo.bitech.cn/appdownchinafortunepark%EF%BC%BFdis/ChinafortunePark.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
