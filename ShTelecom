@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bitech.zjhui.inhouse</string>
+				<string>com.bitech.shdxoa.inhouse</string>
 				<key>bundle-version</key>
-				<string>1.0.0.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iPark+</string>
+				<string>上海电信OA</string>
 			</dict>
 		</dict>
 	</array>
